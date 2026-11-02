@@ -3,7 +3,7 @@ Information Science Project on Old School Runescape Items
 by Simon Spillane
 
 ***Question:***  
-Data analysis project looking at the historical price and volume of OLD School Runescape (OSRS) Megarares using data from OSRS Wiki API. The goal is to to compare historical market trends with game updates to discover correlations between price/volume fluctuations over time. 
+Data analysis project looking at the historical price and volume of OLD School Runescape (OSRS) Megarares using data from OSRS Wiki API. The goal is to compare historical market trends with game updates to discover correlations between price/volume fluctuations over time. 
 
 
 
