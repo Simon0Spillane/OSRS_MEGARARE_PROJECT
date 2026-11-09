@@ -10,7 +10,7 @@ Data analysis project looking at the historical price and volume of OLD School R
 Using the [Weird Gloop](https://runescape.wiki/w/Application_programming_interface) Grand Exchange history API.
 
 - **Source:** Weird Gloop exchange history endpoint (`/exchange/history/osrs/all`)
-- **Snapshot:** data is roughly one week old at time of analysis
+- **Snapshot:** data is roughly one week old
 - **Coverage:** historic price data for all four items
 - **In progress:** a cleaned table of game updates that mention each item
   
@@ -29,11 +29,9 @@ So far, each item's plot includes a vertical line marking when others were added
 ## Methods
 
 - **Python** with `requests` for API calls and `pandas` for cleaning and analysis
-- The OSRS Wiki API
-- The Reldo Wiki Archive
-- Prices plotted on line graphs
+- Data from the Reldo Wiki Archive
+- Prices plotted on line graphs with indicator for game updates
 - Eventually there will be one color per item for easy comparison
-- **Vertical marker lines** show each item's release into the game
 
 ## Visualizations
 
