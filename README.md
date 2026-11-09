@@ -39,16 +39,4 @@ So far, each item's plot includes a vertical line marking when others were added
 
 TBD
 
-## Repository Structure
-
-<!-- TODO: adjust to match your repo -->
-```
-.
-├── data/          # raw and cleaned API data
-├── notebooks/     # analysis and plotting
-├── images/        # exported figures
-└── README.md
-```
-
-
 ## Findings:  
