@@ -8,8 +8,8 @@ Price history comes from the [Weird Gloop](https://api.weirdgloop.org/) Exchange
 
 | # | Item              | Item ID | Color  |
 |---|-------------------|---------|--------|
-| 1 | Twisted bow       | 20997   | Green  |
+| 1 | Twisted bow       | 20997   | N/A.   |
 | 2 | Scythe of Vitur   | 22486   | Red    |
 | 3 | Tumeken's Shadow  | 27277   | Blue   |
-| 4 | Obligator         | 34717   | Orange |
+| 4 | Obligator         | 34717   | Green  |
 
