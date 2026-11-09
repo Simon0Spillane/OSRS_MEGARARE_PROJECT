@@ -2,10 +2,10 @@
 Information Science Project on Old School Runescape Items  
 by Simon Spillane
 
-***Question:***  
+## Question: 
 Data analysis project looking at the historical price and volume of OLD School Runescape (OSRS) Megarares using data from OSRS Wiki API. The goal is to compare historical market trends with game updates to discover correlations between price/volume fluctuations over time. 
 
-***Data:***  
+## Data: 
 
 Using the [Weird Gloop](https://runescape.wiki/w/Application_programming_interface) Grand Exchange history API.
 
@@ -29,15 +29,15 @@ So far, each item's plot includes a vertical line marking when others were added
 ## Methods
 
 - **Python** with `requests` for API calls and `pandas` for cleaning and analysis
+- The OSRS Wiki API
+- The Reldo Wiki Archive
 - Prices plotted on line graphs
 - Eventually there will be one color per item for easy comparison
 - **Vertical marker lines** show each item's release into the game
 
 ## Visualizations
 
-<!-- TODO: add screenshots -->
-![Mega rare price history](images/price_history.png)
-![Tombs of Amascut release window](images/toa_window.png)
+TBD
 
 ## Repository Structure
 
@@ -51,14 +51,4 @@ So far, each item's plot includes a vertical line marking when others were added
 ```
 
 
-
-
-
-
-***Methods:***  
-Looking at OSRS items over time using:
-  1. The OSRS Wiki API 
-  2. The historical data on the Weird Gloop API
-  3. The Reldo Wiki Archive
-
-***Findings:***  
+## Findings:  
