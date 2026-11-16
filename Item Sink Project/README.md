@@ -7,7 +7,7 @@ Tracking how Old School RuneScape Item Sink using Grand Exchange data and wiki r
 
 ## Items Covered
 So far I have been able to grab a timeline for each item found here: Item Sink Project/Historical Sink Items Wiki.ipynb
-Item Sink Project/Items in Sink Hist.png
+![Alt text](Item Sink Project/Items in Sink Hist.png)
 
 
 ## Items Covered
