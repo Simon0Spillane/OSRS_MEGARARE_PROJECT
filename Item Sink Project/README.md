@@ -27,7 +27,7 @@ I have also started to look at how the Item Sink affected the price and volume f
 
 ## Findings
 
-So far I have found that some items drastically went up in price after they were included in the sink, while others stayed the same. 
+So far I have found that some items drastically went up in price after they were included in the sink, while others stayed the same. There were a few cases where the item price skyrocketed and that is unlikely to be because of the Item Sink, however there are some items whose price change closely matches the reduction in trade volume which might be indicative of the item sink leading to price increase.
 
 
 ## Items Covered
