@@ -1,0 +1,61 @@
+item,Estimated drops,Low end,High end,range_width_%,sources_counted,sources_listed,lower_bound
+dexterous prayer scroll,24303706.0,21724163.0,27215288.0,23.0,2,2,False
+arcane prayer scroll,24303706.0,21724163.0,27215288.0,23.0,2,2,False
+avernic defender hilt,18828989.0,15815772.0,22382114.0,35.0,2,2,False
+lightbearer,16054889.0,14752100.0,17434087.0,17.0,1,1,False
+osmumten's fang,16054889.0,14752100.0,17434087.0,17.0,1,1,False
+ancestral robe bottom,7096325.0,6340561.0,7950187.0,23.0,2,2,False
+ancestral robe top,7096325.0,6340561.0,7950187.0,23.0,2,2,False
+ancestral hat,7096325.0,6340561.0,7950187.0,23.0,2,2,False
+twisted buckler,7096325.0,6340561.0,7950187.0,23.0,2,2,False
+elidinis' ward,6880667.0,6322329.0,7471752.0,17.0,1,1,False
+dinh's bulwark,5322243.0,4755421.0,5962640.0,23.0,2,2,False
+sanguinesti staff (uncharged),4791310.0,4020745.0,5697614.0,35.0,2,2,False
+masori body (f),4587111.0,4214886.0,4981168.0,17.0,1,1,False
+masori chaps (f),4587111.0,4214886.0,4981168.0,17.0,1,1,False
+masori mask (f),4587111.0,4214886.0,4981168.0,17.0,1,1,False
+elder maul,3548162.0,3170281.0,3975094.0,23.0,2,2,False
+kodai wand,3548162.0,3170281.0,3975094.0,23.0,2,2,False
+kodai insignia,3548162.0,3170281.0,3975094.0,23.0,2,2,False
+twisted bow,3548162.0,3170281.0,3975094.0,23.0,2,2,False
+torn prayer scroll,3193273.0,2884736.0,3546043.0,21.0,1,1,False
+scythe of vitur (uncharged),2395655.0,2010373.0,2848807.0,35.0,2,2,False
+tumeken's shadow (uncharged),2293556.0,2107443.0,2490584.0,17.0,1,1,False
+kraken tentacle,2227298.0,2121909.0,2343557.0,10.0,1,2,True
+dragon pickaxe,1805468.0,1535295.0,2137816.0,33.0,9,9,False
+uncharged trident,1740077.0,1657742.0,1830904.0,10.0,1,2,True
+berserker ring,1549061.0,1448533.0,1664091.0,14.0,1,1,False
+warrior ring,1549061.0,1448533.0,1664091.0,14.0,1,1,False
+abyssal bludgeon,1515090.0,1414758.0,1622058.0,14.0,1,1,False
+seers ring,1097681.0,996925.0,1205938.0,19.0,1,1,False
+archers ring,1096428.0,995722.0,1210176.0,20.0,1,1,False
+occult necklace,785885.0,722209.0,856090.0,17.0,1,3,True
+saradomin sword,688216.0,624326.0,761767.0,20.0,1,4,True
+zaryte vambraces,626070.0,527236.0,736259.0,33.0,1,1,False
+smoke battlestaff,537226.0,493698.0,585218.0,17.0,1,1,False
+zamorakian spear,530993.0,482681.0,588486.0,20.0,1,4,True
+toxic blowpipe (empty),481031.0,439770.0,532188.0,19.0,1,1,False
+bandos tassets,463805.0,409509.0,527637.0,25.0,1,4,True
+bandos boots,463805.0,409509.0,527637.0,25.0,1,6,True
+bandos chestplate,463805.0,409509.0,527637.0,25.0,1,4,True
+zaryte crossbow,417380.0,351491.0,490839.0,33.0,1,1,False
+torva platelegs,417380.0,351491.0,490839.0,33.0,1,1,False
+torva full helm,417380.0,351491.0,490839.0,33.0,1,1,False
+torva platebody,417380.0,351491.0,490839.0,33.0,1,1,False
+bandos godsword,347853.0,307131.0,395728.0,25.0,1,1,False
+sarachnis cudgel,318591.0,284051.0,359391.0,24.0,1,1,False
+hydra's claw,250387.0,232037.0,269156.0,15.0,1,1,False
+ancient godsword,208690.0,175745.0,245420.0,33.0,1,1,False
+armadyl chainskirt,206172.0,181422.0,236065.0,27.0,1,4,True
+armadyl chestplate,206172.0,181422.0,236065.0,27.0,1,4,True
+armadyl helmet,206172.0,181422.0,236065.0,27.0,1,6,True
+saradomin godsword,172054.0,156081.0,190442.0,20.0,1,1,False
+armadyl godsword,154629.0,136066.0,177048.0,27.0,1,1,False
+zamorak godsword,132748.0,120670.0,147121.0,20.0,1,1,False
+nightmare staff,95465.0,79678.0,113191.0,35.0,2,2,False
+inquisitor's hauberk,68591.0,57249.0,81331.0,35.0,2,2,False
+inquisitor's great helm,68591.0,57249.0,81331.0,35.0,2,2,False
+inquisitor's mace,40095.0,33470.0,47561.0,35.0,2,2,False
+volatile orb,30008.0,25046.0,35582.0,35.0,2,2,False
+harmonised orb,30008.0,25046.0,35582.0,35.0,2,2,False
+eldritch orb,30008.0,25046.0,35582.0,35.0,2,2,False

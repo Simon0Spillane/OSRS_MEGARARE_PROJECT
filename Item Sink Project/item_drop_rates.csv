@@ -1,0 +1,125 @@
+item,wiki_page,category,source,level,quantity,rarity_raw,drop_rate,one_in_x
+abyssal bludgeon,Unsired,Item sources,Abyssal Sire,350,1,1/100,0.01,100.0
+ancestral hat,ancestral hat,Item sources,Ancient chest Normal Mode,N/A,1,4/60,0.06666666666666667,15.0
+ancestral hat,ancestral hat,Item sources,Ancient chest Challenge Mode,N/A,1,4/56,0.07142857142857142,14.0
+ancestral robe bottom,ancestral robe bottom,Item sources,Ancient chest Normal Mode,N/A,1,4/60,0.06666666666666667,15.0
+ancestral robe bottom,ancestral robe bottom,Item sources,Ancient chest Challenge Mode,N/A,1,4/56,0.07142857142857142,14.0
+ancestral robe top,ancestral robe top,Item sources,Ancient chest Normal Mode,N/A,1,4/60,0.06666666666666667,15.0
+ancestral robe top,ancestral robe top,Item sources,Ancient chest Challenge Mode,N/A,1,4/56,0.07142857142857142,14.0
+ancient godsword,Ancient hilt,Item sources,Nex,1001,1,1/516,0.001937984496124031,516.0
+arcane prayer scroll,arcane prayer scroll,Item sources,Ancient chest Normal Mode,N/A,1,14/60,0.23333333333333334,4.285714285714286
+arcane prayer scroll,arcane prayer scroll,Item sources,Ancient chest Challenge Mode,N/A,1,12/56,0.21428571428571427,4.666666666666667
+archers ring,archers ring,Item sources,Dagannoth Supreme,303,1,1/128,0.0078125,128.0
+armadyl chestplate,armadyl chestplate,Item sources,Kree'arra,580,1,1/381,0.0026246719160104987,381.0
+armadyl chestplate,armadyl chestplate,Item sources,Flight Kilisa,159,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl chestplate,armadyl chestplate,Item sources,Wingman Skree,143,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl chestplate,armadyl chestplate,Item sources,Flockleader Geerin,149,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl chainskirt,armadyl chainskirt,Item sources,Kree'arra,580,1,1/381,0.0026246719160104987,381.0
+armadyl chainskirt,armadyl chainskirt,Item sources,Flight Kilisa,159,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl chainskirt,armadyl chainskirt,Item sources,Wingman Skree,143,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl chainskirt,armadyl chainskirt,Item sources,Flockleader Geerin,149,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl helmet,armadyl helmet,Item sources,Kree'arra,580,1,1/381,0.0026246719160104987,381.0
+armadyl helmet,armadyl helmet,Item sources,Flight Kilisa,159,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl helmet,armadyl helmet,Item sources,Wingman Skree,143,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl helmet,armadyl helmet,Item sources,Flockleader Geerin,149,1,"1/16,129",6.2000124000248e-05,16128.999999999998
+armadyl helmet,armadyl helmet,Item sources,Bandosian guard,125,1,"1/2,000,000",5e-07,2000000.0
+armadyl helmet,armadyl helmet,Item sources,Armadylean guard,97,1,"1/2,000,000",5e-07,2000000.0
+armadyl godsword,Armadyl hilt,Item sources,Kree'arra,580,1,1/508,0.001968503937007874,508.0
+avernic defender hilt,avernic defender hilt,Item sources,Monumental chest Normal Mode,N/A,1,8/19,0.42105263157894735,2.375
+avernic defender hilt,avernic defender hilt,Item sources,Monumental chest Hard Mode,N/A,1,7/18,0.3888888888888889,2.571428571428571
+bandos chestplate,bandos chestplate,Item sources,General Graardor,624,1,1/381,0.0026246719160104987,381.0
+bandos chestplate,bandos chestplate,Item sources,Sergeant Strongstack,141,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos chestplate,bandos chestplate,Item sources,Sergeant Steelwill,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos chestplate,bandos chestplate,Item sources,Sergeant Grimspike,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos tassets,bandos tassets,Item sources,General Graardor,624,1,1/381,0.0026246719160104987,381.0
+bandos tassets,bandos tassets,Item sources,Sergeant Strongstack,141,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos tassets,bandos tassets,Item sources,Sergeant Steelwill,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos tassets,bandos tassets,Item sources,Sergeant Grimspike,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos boots,bandos boots,Item sources,General Graardor,624,1,1/381,0.0026246719160104987,381.0
+bandos boots,bandos boots,Item sources,Sergeant Strongstack,141,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos boots,bandos boots,Item sources,Sergeant Steelwill,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos boots,bandos boots,Item sources,Sergeant Grimspike,142,1,"1/16,256",6.151574803149606e-05,16256.0
+bandos boots,bandos boots,Item sources,Bandosian guard,125,1,"1/2,000,000",5e-07,2000000.0
+bandos boots,bandos boots,Item sources,Armadylean guard,97,1,"1/2,000,000",5e-07,2000000.0
+bandos godsword,Bandos hilt,Item sources,General Graardor,624,1,1/508,0.001968503937007874,508.0
+berserker ring,berserker ring,Item sources,Dagannoth Rex,303,1,1/128,0.0078125,128.0
+dark bow,dark bow,Item sources,Dark beast,182,1,1/512,0.001953125,512.0
+dark bow,dark bow,Item sources,Night beast,374,1,3 × 1/512,0.001953125,512.0
+dexterous prayer scroll,dexterous prayer scroll,Item sources,Ancient chest Normal Mode,N/A,1,14/60,0.23333333333333334,4.285714285714286
+dexterous prayer scroll,dexterous prayer scroll,Item sources,Ancient chest Challenge Mode,N/A,1,12/56,0.21428571428571427,4.666666666666667
+dinh's bulwark,dinh's bulwark,Item sources,Ancient chest Normal Mode,N/A,1,3/60,0.05,20.0
+dinh's bulwark,dinh's bulwark,Item sources,Ancient chest Challenge Mode,N/A,1,3/56,0.05357142857142857,18.666666666666668
+dragon pickaxe,dragon pickaxe,Item sources,King Black Dragon,276,1,"1/1,000",0.001,1000.0
+dragon pickaxe,dragon pickaxe,Item sources,Kalphite Queen,333,1,1/400,0.0025,400.0
+dragon pickaxe,dragon pickaxe,Item sources,Chaos Elemental,305,1,1/256,0.00390625,256.0
+dragon pickaxe,dragon pickaxe,Item sources,Callisto,470,1,1/256,0.00390625,256.0
+dragon pickaxe,dragon pickaxe,Item sources,Vet'ion,454,1,1/256,0.00390625,256.0
+dragon pickaxe,dragon pickaxe,Item sources,Venenatis,464,1,1/256,0.00390625,256.0
+dragon pickaxe,dragon pickaxe,Item sources,Artio,320,1,1/358,0.002793296089385475,358.0
+dragon pickaxe,dragon pickaxe,Item sources,Calvar'ion,264,1,1/358,0.002793296089385475,358.0
+dragon pickaxe,dragon pickaxe,Item sources,Spindel,302,1,1/358,0.002793296089385475,358.0
+dragon warhammer,dragon warhammer,Item sources,Lizardman shaman,150,1,"1/3,000",0.0003333333333333333,3000.0
+elder maul,elder maul,Item sources,Ancient chest Normal Mode,N/A,1,2/60,0.03333333333333333,30.0
+elder maul,elder maul,Item sources,Ancient chest Challenge Mode,N/A,1,2/56,0.03571428571428571,28.0
+eldritch orb,eldritch orb,Item sources,The Nightmare,814,1,1/960 – 1/548.7,0.0010416666666666667,960.0
+eldritch orb,eldritch orb,Item sources,Phosani's Nightmare,1024,1,"1/1,600",0.000625,1600.0
+elidinis' ward,elidinis' ward,Item sources,Chest (Tombs of Amascut),N/A,1,3/24,0.125,8.0
+harmonised orb,harmonised orb,Item sources,The Nightmare,814,1,1/960 – 1/548.7,0.0010416666666666667,960.0
+harmonised orb,harmonised orb,Item sources,Phosani's Nightmare,1024,1,"1/1,600",0.000625,1600.0
+hydra's claw,hydra's claw,Item sources,Alchemical Hydra,426,1,"1/1,001",0.000999000999000999,1001.0
+inquisitor's great helm,inquisitor's great helm,Item sources,The Nightmare,814,1,1/420 – 1/240.1,0.002380952380952381,419.99999999999994
+inquisitor's great helm,inquisitor's great helm,Item sources,Phosani's Nightmare,1024,1,1/700,0.0014285714285714286,700.0
+inquisitor's hauberk,inquisitor's hauberk,Item sources,The Nightmare,814,1,1/420 – 1/240.1,0.002380952380952381,419.99999999999994
+inquisitor's hauberk,inquisitor's hauberk,Item sources,Phosani's Nightmare,1024,1,1/700,0.0014285714285714286,700.0
+inquisitor's mace,inquisitor's mace,Item sources,The Nightmare,814,1,1/750 – 1/428.7,0.0013333333333333333,750.0
+inquisitor's mace,inquisitor's mace,Item sources,Phosani's Nightmare,1024,1,"31/35,000",0.0008857142857142857,1129.032258064516
+kodai insignia,kodai insignia,Item sources,Ancient chest Normal Mode,N/A,1,2/60,0.03333333333333333,30.0
+kodai insignia,kodai insignia,Item sources,Ancient chest Challenge Mode,N/A,1,2/56,0.03571428571428571,28.0
+kodai wand,Kodai insignia,Item sources,Ancient chest Normal Mode,N/A,1,2/60,0.03333333333333333,30.0
+kodai wand,Kodai insignia,Item sources,Ancient chest Challenge Mode,N/A,1,2/56,0.03571428571428571,28.0
+kraken tentacle,kraken tentacle,Item sources,Cave kraken,127,1,"1/1,200",0.0008333333333333334,1200.0
+kraken tentacle,kraken tentacle,Item sources,Kraken,291,1,1/400,0.0025,400.0
+lightbearer,lightbearer,Item sources,Chest (Tombs of Amascut),N/A,1,7/24,0.2916666666666667,3.4285714285714284
+masori body (f),Masori body,Item sources,Chest (Tombs of Amascut),N/A,1,2/24,0.08333333333333333,12.0
+masori chaps (f),Masori chaps,Item sources,Chest (Tombs of Amascut),N/A,1,2/24,0.08333333333333333,12.0
+masori mask (f),Masori mask,Item sources,Chest (Tombs of Amascut),N/A,1,2/24,0.08333333333333333,12.0
+nightmare staff,nightmare staff,Item sources,The Nightmare,814,1,1/300 – 1/171.5,0.0033333333333333335,300.0
+nightmare staff,nightmare staff,Item sources,Phosani's Nightmare,1024,1,"69/35,000",0.0019714285714285715,507.2463768115942
+occult necklace,occult necklace,Item sources,Smoke devil,160,1,1/512,0.001953125,512.0
+occult necklace,occult necklace,Item sources,Thermonuclear smoke devil,301,1,1/350,0.002857142857142857,350.0
+occult necklace,occult necklace,Item sources,Nuclear smoke devil,280,1,3 × 1/512,0.001953125,512.0
+osmumten's fang,osmumten's fang,Item sources,Chest (Tombs of Amascut),N/A,1,7/24,0.2916666666666667,3.4285714285714284
+sanguinesti staff (uncharged),sanguinesti staff (uncharged),Item sources,Monumental chest Normal Mode,N/A,1,2/19,0.10526315789473684,9.5
+sanguinesti staff (uncharged),sanguinesti staff (uncharged),Item sources,Monumental chest Hard Mode,N/A,1,2/18,0.1111111111111111,9.0
+sarachnis cudgel,sarachnis cudgel,Item sources,Sarachnis,318,1,1/384,0.0026041666666666665,384.0
+saradomin godsword,Saradomin hilt,Item sources,Commander Zilyana,596,1,1/508,0.001968503937007874,508.0
+saradomin sword,saradomin sword,Item sources,Commander Zilyana,596,1,1/127,0.007874015748031496,127.0
+saradomin sword,saradomin sword,Item sources,Starlight,149,1,"3/16,129",0.000186000372000744,5376.333333333333
+saradomin sword,saradomin sword,Item sources,Bree,146,1,"3/16,129",0.000186000372000744,5376.333333333333
+saradomin sword,saradomin sword,Item sources,Growler,139,1,"3/16,129",0.000186000372000744,5376.333333333333
+scythe of vitur (uncharged),scythe of vitur (uncharged),Item sources,Monumental chest Normal Mode,N/A,1,1/19,0.05263157894736842,19.0
+scythe of vitur (uncharged),scythe of vitur (uncharged),Item sources,Monumental chest Hard Mode,N/A,1,1/18,0.05555555555555555,18.0
+seers ring,seers ring,Item sources,Dagannoth Prime,303,1,1/128,0.0078125,128.0
+smoke battlestaff,smoke battlestaff,Item sources,Thermonuclear smoke devil,301,1,1/512,0.001953125,512.0
+torn prayer scroll,torn prayer scroll,Item sources,Ancient chest,N/A,1,2 × 1/33,0.030303030303030304,33.0
+torva full helm,torva full helm,Item sources,Nex,1001,1,1/258,0.003875968992248062,258.0
+torva platebody,torva platebody,Item sources,Nex,1001,1,1/258,0.003875968992248062,258.0
+torva platelegs,torva platelegs,Item sources,Nex,1001,1,1/258,0.003875968992248062,258.0
+toxic blowpipe (empty),Tanzanite fang,Item sources,Zulrah,725,1,"2 × 1/1,024",0.0009765625,1024.0
+uncharged trident,uncharged trident,Uncharged trident,Cave kraken,127,1,1/200,0.005,200.0
+uncharged trident,uncharged trident,Trident of the Seas (full),Kraken,291,1,1/512,0.001953125,512.0
+tumeken's shadow (uncharged),tumeken's shadow (uncharged),Item sources,Chest (Tombs of Amascut),N/A,1,1/24,0.041666666666666664,24.0
+twisted bow,twisted bow,Item sources,Ancient chest Normal Mode,N/A,1,2/60,0.03333333333333333,30.0
+twisted bow,twisted bow,Item sources,Ancient chest Challenge Mode,N/A,1,2/56,0.03571428571428571,28.0
+twisted buckler,twisted buckler,Item sources,Ancient chest Normal Mode,N/A,1,4/60,0.06666666666666667,15.0
+twisted buckler,twisted buckler,Item sources,Ancient chest Challenge Mode,N/A,1,4/56,0.07142857142857142,14.0
+volatile orb,volatile orb,Item sources,The Nightmare,814,1,1/960 – 1/548.7,0.0010416666666666667,960.0
+volatile orb,volatile orb,Item sources,Phosani's Nightmare,1024,1,"1/1,600",0.000625,1600.0
+warrior ring,warrior ring,Item sources,Dagannoth Rex,303,1,1/128,0.0078125,128.0
+zamorak godsword,Zamorak hilt,Item sources,K'ril Tsutsaroth,650,1,1/508,0.001968503937007874,508.0
+zamorakian spear,zamorakian spear,Item sources,K'ril Tsutsaroth,650,1,1/127,0.007874015748031496,127.0
+zamorakian spear,zamorakian spear,Item sources,Balfrug Kreeyath,151,1,"3/16,129",0.000186000372000744,5376.333333333333
+zamorakian spear,zamorakian spear,Item sources,Zakl'n Gritch,142,1,"3/16,129",0.000186000372000744,5376.333333333333
+zamorakian spear,zamorakian spear,Item sources,Tstanon Karlak,145,1,"3/16,129",0.000186000372000744,5376.333333333333
+zaryte crossbow,Nihil horn,Item sources,Nex,1001,1,1/258,0.003875968992248062,258.0
+zaryte vambraces,zaryte vambraces,Item sources,Nex,1001,1,1/172,0.005813953488372093,172.0

@@ -1,0 +1,20 @@
+Boss,Estimated total kills,Low end (95% range),High end (95% range),Range width (% of estimate),Sampled accounts with kills,Within 15% target?,Kills cover,Precision tier
+Kraken,890919312,848763669,937422754,10,2405,Yes,lifetime (includes pre-2021),≤15%
+Zulrah,492575878,450324073,544960278,19,2878,No,lifetime (includes pre-2021),15–25%
+Dagannoth Kings (all three),479125894,441106372,521304002,17,2777,No,lifetime (includes pre-2021),15–25%
+Thermonuclear Smoke Devil,275059723,252773269,299631436,17,1758,No,lifetime (includes pre-2021),15–25%
+Alchemical Hydra,250637807,232269451,269425011,15,1346,Yes,lifetime (includes pre-2021),≤15%
+Dagannoth Rex,198279871,185412284,213003634,14,2721,Yes,lifetime (includes pre-2021),≤15%
+General Graardor,176709574,156022765,201029649,25,2473,No,lifetime (includes pre-2021),>25%
+Abyssal Sire,151509008,141475818,162205763,14,1807,Yes,lifetime (includes pre-2021),≤15%
+Dagannoth Prime,140503186,127606383,154360054,19,2320,No,lifetime (includes pre-2021),15–25%
+Dagannoth Supreme,140342836,127452406,154902543,20,2334,No,lifetime (includes pre-2021),15–25%
+Chambers of Xeric (incl. CM),105378008,95196292,117019407,21,2117,No,lifetime (includes pre-2021),15–25%
+Commander Zilyana,87403487,79289357,96744385,20,2135,No,lifetime (includes pre-2021),15–25%
+Kree'Arra,78551374,69121658,89940595,27,2027,No,lifetime (includes pre-2021),>25%
+K'ril Tsutsaroth,67436063,61300477,74737696,20,2190,No,lifetime (includes pre-2021),15–25%
+Tombs of Amascut (incl. Expert),55045335,50578629,59774014,17,1883,No,since release (post-2021),15–25%
+Corporeal Beast,46351723,38972389,55972543,37,1369,No,lifetime (includes pre-2021),>25%
+Theatre of Blood (incl. HM),45181191,38599518,53228589,32,813,No,lifetime (includes pre-2021),>25%
+Phosani's Nightmare,19653212,16457720,23516139,36,506,No,lifetime (includes pre-2021),>25%
+Nightmare,17016140,14169967,20049302,35,919,No,lifetime (includes pre-2021),>25%
