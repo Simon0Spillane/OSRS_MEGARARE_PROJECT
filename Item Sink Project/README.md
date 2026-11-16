@@ -18,6 +18,17 @@ I have also started to look at how the Item Sink affected the price and volume f
 
 [Item Sink Price/Volume Graphs](https://github.com/Simon0Spillane/OSRS_MEGARARE_PROJECT/tree/main/Item%20Sink%20Project/Price%20and%20Volume%20Graphs)
 
+## Methods
+
+- **Python** with `requests` for API calls and `pandas` for cleaning and analysis
+- Data from the Reldo Wiki Archive
+- Prices plotted on line graphs with indicator for game updates
+- Eventually there will be one color per item for easy comparison
+
+## Findings
+
+So far I have found that some items drastically went up in price after they were included in the sink, while others stayed the same. 
+
 
 ## Items Covered
 
