@@ -7,9 +7,17 @@ Tracking how Old School RuneScape Item Sink using Grand Exchange data and wiki r
 
 ## Items Covered
 So far I have been able to grab a timeline for each item found here: 
+
 [Items in Sink History Notebook](https://github.com/Simon0Spillane/OSRS_MEGARARE_PROJECT/blob/main/Item%20Sink%20Project/Historical%20Sink%20Items%20Wiki.ipynb)
 
 [Items in Sink History Table](https://github.com/Simon0Spillane/OSRS_MEGARARE_PROJECT/blob/main/Item%20Sink%20Project/Items%20in%20Sink%20Hist.png)
+
+I have also started to look at how the Item Sink affected the price and volume for each item here:
+
+[Item Sink Price/Volume Notebook](https://github.com/Simon0Spillane/OSRS_MEGARARE_PROJECT/blob/main/Item%20Sink%20Project/ItemSinkData.ipynb)
+
+[Item Sink Price/Volume Graphs](https://github.com/Simon0Spillane/OSRS_MEGARARE_PROJECT/tree/main/Item%20Sink%20Project/Price%20and%20Volume%20Graphs)
+
 
 ## Items Covered
 
